@@ -1,2 +1,3 @@
 # first-vue-app
-This is my first Vue.js application.
+
+This is a simpe To-Do app.
